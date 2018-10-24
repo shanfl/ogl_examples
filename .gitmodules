@@ -1,0 +1,21 @@
+[submodule "OpenGL-4-Shading-Language-Cookbook-Third-Edition"]
+	path = OpenGL-4-Shading-Language-Cookbook-Third-Edition
+	url = https://github.com/PacktPublishing/OpenGL-4-Shading-Language-Cookbook-Third-Edition.git
+[submodule "opengles3-book"]
+	path = opengles3-book
+	url = https://github.com/danginsburg/opengles3-book.git
+[submodule "OpenGL"]
+	path = OpenGL
+	url = https://github.com/McNopper/OpenGL.git
+[submodule "OpenGL_3_3_Tutorial_Translation"]
+	path = OpenGL_3_3_Tutorial_Translation
+	url = https://github.com/cybercser/OpenGL_3_3_Tutorial_Translation.git
+[submodule "opengl-tutorials"]
+	path = opengl-tutorials
+	url = https://github.com/zilongshanren/opengl-tutorials.git
+[submodule "OpenGL-Examples"]
+	path = OpenGL-Examples
+	url = https://github.com/progschj/OpenGL-Examples.git
+[submodule "Simple_GLSL_Shader_Example"]
+	path = Simple_GLSL_Shader_Example
+	url = https://github.com/MauriceGit/Simple_GLSL_Shader_Example.git
