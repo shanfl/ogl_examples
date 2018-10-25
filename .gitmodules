@@ -19,3 +19,21 @@
 [submodule "Simple_GLSL_Shader_Example"]
 	path = Simple_GLSL_Shader_Example
 	url = https://github.com/MauriceGit/Simple_GLSL_Shader_Example.git
+[submodule "OpenGLInsightsCode"]
+	path = OpenGLInsightsCode
+	url = https://github.com/OpenGLInsights/OpenGLInsightsCode.git
+[submodule "antons_opengl_tutorials_book"]
+	path = antons_opengl_tutorials_book
+	url = https://github.com/capnramses/antons_opengl_tutorials_book.git
+[submodule "OpenGL-Deferred-Lighting"]
+	path = OpenGL-Deferred-Lighting
+	url = https://github.com/sephirot47/OpenGL-Deferred-Lighting.git
+[submodule "Partikel_accelleration_on_GPU"]
+	path = Partikel_accelleration_on_GPU
+	url = https://github.com/MauriceGit/Partikel_accelleration_on_GPU.git
+[submodule "OpenGL-ES-3.0-Deferred-Rendering"]
+	path = OpenGL-ES-3.0-Deferred-Rendering
+	url = https://github.com/GameTechDev/OpenGL-ES-3.0-Deferred-Rendering.git
+[submodule "Tessellation"]
+	path = Tessellation
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/Tessellation.git
