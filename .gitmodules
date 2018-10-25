@@ -37,3 +37,6 @@
 [submodule "Tessellation"]
 	path = Tessellation
 	url = https://github.com/GPUOpen-LibrariesAndSDKs/Tessellation.git
+[submodule "opengl33_dev_cookbook_2013"]
+	path = opengl33_dev_cookbook_2013
+	url = https://github.com/bagobor/opengl33_dev_cookbook_2013.git
